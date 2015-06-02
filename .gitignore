@@ -1,3 +1,7 @@
+*.py
+*.pyc
+*.swp
+
 # Object files
 *.o
 *.ko
